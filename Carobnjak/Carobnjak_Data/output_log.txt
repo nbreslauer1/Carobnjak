@@ -1,0 +1,57 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970M (ID=0x13d8)
+    Vendor:   NVIDIA
+    VRAM:     3038 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity projekti-neno\Carobnjak\Carobnjak_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity projekti-neno\Carobnjak\Carobnjak_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity projekti-neno\Carobnjak\Carobnjak_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity projekti-neno\Carobnjak\Carobnjak_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity projekti-neno\Carobnjak\Carobnjak_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity projekti-neno\Carobnjak\Carobnjak_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity projekti-neno\Carobnjak\Carobnjak_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity projekti-neno\Carobnjak\Carobnjak_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.273 seconds
+Platform assembly: D:\Unity projekti-neno\Carobnjak\Carobnjak_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity projekti-neno\Carobnjak\Carobnjak_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.644970 ms
+Učitavanje razine:Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.377672 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 189.
+Total: 0.203631 ms (FindLiveObjects: 0.016832 ms CreateObjectMapping: 0.015600 ms MarkObjects: 0.167093 ms  DeleteObjects: 0.003284 ms)
+
+Učitavanje razine:Win
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.316943 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 172.
+Total: 0.193778 ms (FindLiveObjects: 0.025043 ms CreateObjectMapping: 0.007389 ms MarkObjects: 0.157239 ms  DeleteObjects: 0.002873 ms)
+
+Učitavanje razine:Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.346502 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 185.
+Total: 0.209379 ms (FindLiveObjects: 0.023811 ms CreateObjectMapping: 0.008210 ms MarkObjects: 0.173661 ms  DeleteObjects: 0.002873 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: dc8 -> priority: 1 
+  Thread -> id: 1d68 -> priority: 1 
